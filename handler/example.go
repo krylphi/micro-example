@@ -5,7 +5,7 @@ import (
 
 	log "github.com/micro/go-micro/v2/logger"
 
-	example "example/proto/example"
+	example "github.com/krylphi/micro-example/proto/example"
 )
 
 type Example struct{}
